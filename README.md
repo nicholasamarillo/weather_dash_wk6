@@ -19,7 +19,7 @@ Verify that the website displays the 5 day forcast for the inputted location.
 
 If all tests are passed, then HOORAY!
 
-LIVE LINK TO THE WEBSITE: https://nicholasamarillo.github.io/homework-3-javascript/
+LIVE LINK TO THE WEBSITE: https://nicholasamarillo.github.io/weather_dash_wk6/
 
 ![](/images/finished_wd.png "Finished Weather Dashboard")
 
